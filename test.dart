@@ -32,5 +32,5 @@ class _MyAppState extends State<MyApp> {
 }
 
 class Data extends ChangeNotifier {
-  String title = "Ahmed Say Allam";
+  String title = "Ahmed Say Alllam";
 }
